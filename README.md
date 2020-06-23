@@ -1,7 +1,7 @@
-# Build and deploy machine learning web app using PyCaret and Streamlit
-#### A beginner's guide to deploy machine learning app on Heroku PaaS
+# Deploy Machine Learning App built using Streamlit and PyCaret on Google Kubernetes Engine
+#### A step-by-step beginner's guide to containerize and deploy streamlit app on Google Kubernetes Engine
 
-Read the complete post: XXXX
+Read the complete post: XXX
 
 - Official Website : https://www.pycaret.org
 
